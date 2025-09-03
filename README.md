@@ -8,7 +8,7 @@ multiple submission files using mode technique
 predict on test embeddings
 - `ml_embeddings.ipynb` : code to generate embeddings
 from csv file
-- `submission_top-score.csv` : submission file with top score [Accuracy : `55.85`]
+- `submission_top-score.csv` : submission file with top score [Accuracy : `52.73`]
 ## Details of Data
 
 -  Key column – `PRODUCT_ID`
